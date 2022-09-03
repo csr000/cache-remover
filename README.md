@@ -1,2 +1,2 @@
 # cache-remover
-## A python script to clear all cache
+A Python Script to clear all cache.
